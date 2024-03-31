@@ -2,9 +2,9 @@
 title: Xinzhe Yang
 position: School of Advanced Materials
 affiliation: Peking University Shenzhen Graduate School
-affiliation1: School of Advanced Materials
-affiliation2: Shenzhen Graduate School
-affiliation3: Peking University
+affiliation_1: School of Advanced Materials
+affiliation_2: Shenzhen Graduate School
+affiliation_3: Peking University
 location: Shenzhen, China
 email: xinzheyang (at) stu.pku.edu.cn
 
@@ -17,11 +17,11 @@ canonical: https://xzyang99.github.io/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 cv_link: assets/files/curriculum_vitae.pdf
-google_scholar: https://scholar.google.com/
-# github_link: https://github.com/
-# linkedin: https://www.linkedin.com/
-# twitter: https://twitter.com/
-# ORCID
+google_scholar: \#
+github_link: https://github.com/xzyang99/
+linkedin: \#
+twitter: \#
+orcid: \#
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
