@@ -10,6 +10,6 @@ My research primarily focuses on theoretical investigations of electrochemical i
 
 Feel free to reach me via email for any discussions, collaborations, or just to say hello. I am in the process of preparing to apply for Fall 2025 Ph.D. programs worldwide.
 
-
+<br><br>
 
 {% include_relative _includes/publications.md %}
