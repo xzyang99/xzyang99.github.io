@@ -2,6 +2,10 @@
 title: Xinzhe Yang
 position: School of Advanced Materials
 affiliation: Peking University Shenzhen Graduate School
+affiliation1: School of Advanced Materials
+affiliation2: Shenzhen Graduate School
+affiliation3: Peking University
+location: Shenzhen, China
 email: xinzheyang (at) stu.pku.edu.cn
 
 # Search Engine Optimization (SEO)
@@ -14,9 +18,9 @@ canonical: https://xzyang99.github.io/
 # If you don't need one of them, you may delete the corresponding line.
 cv_link: assets/files/curriculum_vitae.pdf
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+# github_link: https://github.com/
+# linkedin: https://www.linkedin.com/
+# twitter: https://twitter.com/
 # ORCID
 
 # Images (e.g., your profile picture and your website's favicon) 
@@ -29,8 +33,8 @@ favicon_dark: ./assets/img/favicon-dark.png
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
 
-# The option is used to show the last update time.
-# enable_last_update: false
+The option is used to show the last update time.
+enable_last_update: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
