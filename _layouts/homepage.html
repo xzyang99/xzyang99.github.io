@@ -45,12 +45,20 @@
 
         <h1>{{ site.title }}</h1>
 
-        {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
+        {% if site.affiliation1 %}
+        <a href="{{ site.affiliation1_link }}" rel="noopener" style="font-size:1.10rem;"><autocolor>{{ site.affiliation1 }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        {% if site.affiliation2 %}
+        <a href="{{ site.affiliation2_link }}" rel="noopener" style="font-size:1.10rem;"><autocolor>{{ site.affiliation2 }}</autocolor></a>
+        <br>
+        {% endif %}
+        {% if site.affiliation3 %}
+        <a href="{{ site.affiliation3_link }}" rel="noopener" style="font-size:1.10rem;"><autocolor>{{ site.affiliation3 }}</autocolor></a>
+        <br>
+        {% endif %}
+        {% if site.location %}
+        <position>{{ site.location }}</position>
         <br>
         {% endif %}
         {% if site.email %}
