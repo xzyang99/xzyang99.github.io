@@ -86,17 +86,12 @@ email {
     font-family: "Ubuntu Mono";
 }
 
-email::before {
-    content: "\f0e0";
-}
-
-location {
-    font-size: 14px;
-    font-family: "Ubuntu Mono";
-}
-
-location::before {    
+.location-icon::before {
     content: "\f3c5";
+}
+
+.email-icon::before {
+    content: "\f0e0";
 }
 
 .icon-button i{
