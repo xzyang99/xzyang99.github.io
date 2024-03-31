@@ -2,18 +2,12 @@ main:
 
   - title: The Role of Surface Hydrogen Coverage in C−C Coupling Process for CO2 Electroreduction on Ni-Based Catalysts
     authors: Haowen Ding†, Shisheng Zheng†*, <strong>Xinzhe Yang</strong>, Junjie Pan, Zhefeng Chen, Mingzheng Zhang, Shunning Li*, Feng Pan*
-    # conference_short: MICCAI
     conference: <em>ACS Catal.</em> in revision
     web: \#
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
+    image: ./assets/img/niga.jpg
 
   - title: "Cation-Induced Interfacial Hydrophobic Microenvironment Promotes the C–C Coupling in Electrochemical CO2 Reduction"
     authors: <strong>Xinzhe Yang</strong>, Haowen Ding, Shunning Li, Shisheng Zheng*, Jian-Feng Li, Feng Pan*
-    # conference_short: CVPR
     conference: <em>J. Am. Chem. Soc.</em> 2024, 146, 8, 5532–5542
     web: https://doi.org/10.1021/jacs.3c13602
     # pdf: https://doi.org/10.1021/jacs.3c13602
@@ -21,4 +15,5 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    # conference_short: CVPR
+    image: ./assets/img/cation.jpeg
