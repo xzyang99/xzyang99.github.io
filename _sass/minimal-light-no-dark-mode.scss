@@ -86,6 +86,19 @@ email {
     font-family: "Ubuntu Mono";
 }
 
+email::before {
+    content: "\f0e0";
+}
+
+location {
+    font-size: 14px;
+    font-family: "Ubuntu Mono";
+}
+
+location::before {    
+    content: "\f3c5";
+}
+
 .icon-button i{
   background:none;
   color:white;
