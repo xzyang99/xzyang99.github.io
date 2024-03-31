@@ -73,6 +73,12 @@
         </a>  
         {% endif %}
 
+        {% if site.orcid %}
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}">
+          <i class="fab fa-orcid"></i>
+        </a>
+        {% endif %}
+          
         {% if site.github_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
           <i class="fab fa-github"></i>
@@ -90,6 +96,7 @@
           <i class="fab fa-x-twitter"></i>
         </a>
         {% endif %}
+        
         </div>
         <br>
 
