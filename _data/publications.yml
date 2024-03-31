@@ -14,7 +14,8 @@ main:
     authors: <strong>Xinzhe Yang</strong>, Haowen Ding, Shunning Li, Shisheng Zheng*, Jian-Feng Li, Feng Pan*
     # conference_short: CVPR
     conference: <em>J. Am. Chem. Soc.</em> 2024, 146, 8, 5532–5542
-    pdf: https://doi.org/10.1021/jacs.3c13602
+    web: https://doi.org/10.1021/jacs.3c13602
+    # pdf: https://doi.org/10.1021/jacs.3c13602
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
