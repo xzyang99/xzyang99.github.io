@@ -1,7 +1,13 @@
 main:
 
+  - title: Electric Double Layer Structure Reveals the Origin of Concentration-Modulated Anion Reduction
+    authors: Ru-Yu Zhou†, Shisheng Zheng†, Yao-Hui Wang, Shunning Li, Xinzhe Yang, Feng Pan*, Zhong-Qun Tian, Jian-Feng Li*
+    conference: submitted
+    web: \#
+    # image: ./assets/img/niga.jpg
+
   - title: The Role of Surface Hydrogen Coverage in C−C Coupling Process for CO2 Electroreduction on Ni-Based Catalysts
-    authors: Haowen Ding†, Shisheng Zheng†*, <strong>Xinzhe Yang</strong>, Junjie Pan, Zhefeng Chen, Mingzheng Zhang, Shunning Li*, Feng Pan*
+    authors: Haowen Ding, Shisheng Zheng*, <strong>Xinzhe Yang</strong>, Junjie Pan, Zhefeng Chen, Mingzheng Zhang, Shunning Li*, Feng Pan*
     conference: <em>ACS Catal.</em> in revision
     web: \#
     image: ./assets/img/niga.jpg
