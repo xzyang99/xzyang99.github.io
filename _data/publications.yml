@@ -1,10 +1,16 @@
 main:
 
+  - title: The Loss of Interfacial Water-Adsorbate Hydrogen Bond Connectivity Positions Surface-Active Hydrogen as a Crucial Intermediate to Enhance Nitrate Reduction Reaction
+    authors: Shisheng Zheng*, <strong>Xinzhe Yang</strong>, Zhong-Zhang Shi, Haowen Ding, Feng Pan*, Jian-Feng Li*
+    conference: Submitted
+    web: \#
+    image: ./assets/img/comingsoon.png
+
   - title: Hierarchical Interfacial Water-Ion Networks Engineer Anion Reduction
     authors: Ru-Yu Zhou†, Shisheng Zheng†, Yao-Hui Wang, Shunning Li, <strong>Xinzhe Yang</strong>, Feng Pan*, Zhong-Qun Tian, Jian-Feng Li*
     conference: Submitted
     web: \#
-    image: ./assets/img/anon.gif
+    image: ./assets/img/comingsoon.png
 
   - title: The Role of Surface Hydrogen Coverage in C−C Coupling Process for CO2 Electroreduction on Ni-Based Catalysts
     authors: Haowen Ding, Shisheng Zheng*, <strong>Xinzhe Yang</strong>, Junjie Pan, Zhefeng Chen, Mingzheng Zhang, Shunning Li*, Feng Pan*
@@ -12,7 +18,7 @@ main:
     web: \#
     image: ./assets/img/niga.jpg
 
-  - title: "Cation-Induced Interfacial Hydrophobic Microenvironment Promotes the C–C Coupling in Electrochemical CO2 Reduction"
+  - title: Cation-Induced Interfacial Hydrophobic Microenvironment Promotes the C–C Coupling in Electrochemical CO2 Reduction
     authors: <strong>Xinzhe Yang</strong>, Haowen Ding, Shunning Li, Shisheng Zheng*, Jian-Feng Li, Feng Pan*
     conference: <em>J. Am. Chem. Soc.</em> 2024, 146, 8, 5532–5542
     web: https://doi.org/10.1021/jacs.3c13602
