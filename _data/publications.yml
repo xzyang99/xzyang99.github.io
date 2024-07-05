@@ -1,5 +1,11 @@
 main:
 
+  - title: Reaction Pathway Identification and Catalysts Recommendation by a Graph Based Theoretical Approach for Electrochemical C-N Coupling
+    authors: Junjie Pan#, Haowen Ding#, <strong>Xinzhe Yang#</strong>, Xianhui Liang, Shanglin Wu, Mingzheng Zhang, Shunning Li*, Shisheng Zheng*, Feng Pan*
+    conference: Submitted
+    web: \#
+    image: ./assets/img/coming-soon.png
+
   - title: The Loss of Interfacial Water-Adsorbate Hydrogen Bond Connectivity Positions Surface-Active Hydrogen as a Crucial Intermediate to Enhance Nitrate Reduction Reaction
     authors: Shisheng Zheng*, <strong>Xinzhe Yang</strong>, Zhong-Zhang Shi, Haowen Ding, Feng Pan*, Jian-Feng Li*
     conference: Submitted
