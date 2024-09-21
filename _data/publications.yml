@@ -9,7 +9,7 @@ main:
   - title: The Loss of Interfacial Water-Adsorbate Hydrogen Bond Connectivity Positions Surface-Active Hydrogen as a Crucial Intermediate to Enhance Nitrate Reduction Reaction
     authors: Shisheng Zheng*, <strong>Xinzhe Yang</strong>, Zhong-Zhang Shi, Haowen Ding, Feng Pan*, Jian-Feng Li*
     conference: <em>J. Am. Chem. Soc.</em> In Press
-    web: \#
+    web: https://doi.org/10.1021/jacs.4c08256
     image: ./assets/img/no3rr.jpg
 
   - title: The Role of Surface Hydrogen Coverage in C−C Coupling Process for CO2 Electroreduction on Ni-Based Catalysts
