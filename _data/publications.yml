@@ -1,5 +1,11 @@
 main:
 
+  - title: Automating Discovery of Electrochemical Urea Synthesis Reaction Paths via Active Learning and Graph Theory
+    authors: Shisheng Zheng, Haowen Ding, <strong>Xinzhe Yang</strong>, Shunning Li*, Feng Pan*
+    conference: <em>CCS Chem.</em> In Revision
+    web: \#
+    image: ./assets/img/ccs.png
+
   - title: Autonomous Exploration of Reaction Pathways for Electrochemical C-N Coupling on Single-Atom Catalysts
     authors: Junjie Pan#, Haowen Ding#, <strong>Xinzhe Yang#</strong>, Xianhui Liang, Shanglin Wu, Mingzheng Zhang, Shunning Li*, Shisheng Zheng*, Feng Pan*
     conference: <em>ACS Catal.</em> In Revision
