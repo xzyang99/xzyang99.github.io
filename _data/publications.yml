@@ -1,5 +1,11 @@
 main:
 
+  - title: Polarized Ni0-Niδ+ Catalysts Enable Asymmetric C−C Coupling for Long-Chain Hydrocarbons in Electrochemical CO2 Reduction
+    authors: Haowen Ding#, Wenwei Cai#, <strong>Xinzhe Yang</strong>, Yu Zhang, Shunning Li*, Feng Pan*, Shisheng Zheng*
+    conference: Submitted
+    web: \#
+    image: ./assets/img/nipol.png
+
   - title: Automating Discovery of Electrochemical Urea Synthesis Reaction Paths via Active Learning and Graph Theory
     authors: Shisheng Zheng, Haowen Ding, <strong>Xinzhe Yang</strong>, Shunning Li*, Feng Pan*
     conference: <em>CCS Chem.</em> In Revision
