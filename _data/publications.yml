@@ -1,23 +1,17 @@
 main:
 
-  - title: Polarized Ni0-Niδ+ Catalysts Enable Asymmetric C−C Coupling for Long-Chain Hydrocarbons in Electrochemical CO2 Reduction
-    authors: Haowen Ding#, Wenwei Cai#, <strong>Xinzhe Yang</strong>, Yu Zhang, Shunning Li*, Feng Pan*, Shisheng Zheng*
-    conference: Submitted
-    web: \#
-    image: ./assets/img/nipol.png
-
-  - title: Automating Discovery of Electrochemical Urea Synthesis Reaction Paths via Active Learning and Graph Theory
-    authors: Shisheng Zheng, Haowen Ding, <strong>Xinzhe Yang</strong>, Shunning Li*, Feng Pan*
-    conference: <em>CCS Chem.</em> In Revision
-    web: \#
-    image: ./assets/img/ccs.png
-
   - title: Autonomous Exploration of Reaction Pathways for Electrochemical C-N Coupling on Single-Atom Catalysts
     authors: Junjie Pan#, Haowen Ding#, <strong>Xinzhe Yang#</strong>, Xianhui Liang, Shanglin Wu, Mingzheng Zhang, Shunning Li*, Shisheng Zheng*, Feng Pan*
     conference: <em>ACS Catal.</em> In Revision
     web: \#
     image: ./assets/img/graph.png
-
+    
+  - title: Automating Discovery of Electrochemical Urea Synthesis Reaction Paths via Active Learning and Graph Theory
+    authors: Shisheng Zheng, Haowen Ding, <strong>Xinzhe Yang</strong>, Shunning Li*, Feng Pan*
+    conference: <em>CCS Chem.</em> Accepted
+    web: https://doi.org/10.31635/ccschem.024.202404955
+    image: ./assets/img/ccs.png
+    
   - title: The Loss of Interfacial Water-Adsorbate Hydrogen Bond Connectivity Positions Surface-Active Hydrogen as a Crucial Intermediate to Enhance Nitrate Reduction Reaction
     authors: Shisheng Zheng*, <strong>Xinzhe Yang</strong>, Zhong-Zhang Shi, Haowen Ding, Feng Pan*, Jian-Feng Li*
     conference: <em>J. Am. Chem. Soc.</em> 2024, 146, 39, 26965–26974
