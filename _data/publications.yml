@@ -1,5 +1,17 @@
 main:
 
+  - title: Elevating Nitrate Reduction through the Mastery of Hierarchical Hydrogen-Bond Networks
+    authors: Ru-Yu Zhou#, Shisheng Zheng#, Xuan Liu, Yao-Hui Wang, Shunning Li, <strong>Xinzhe Yang</strong>, Feng Pan*, Jian-Feng Li*
+    conference: <em>J. Am. Chem. Soc.</em> 2025, XXXX, XXX, XXX-XXX
+    web: https://doi.org/10.1021/jacs.5c02540
+    image: ./assets/img/lino3.png
+
+  - title: Polarized Ni0-Niδ+ Catalysts Enable Asymmetric C–C Coupling for Long-Chain Hydrocarbons in Electrochemical CO2 Reduction
+    authors: Haowen Ding#, Wenwei Cai#, <strong>Xinzhe Yang</strong>, Yu Zhang, Shunning Li*, Feng Pan*, Shisheng Zheng*
+    conference: <em>ACS Catal.</em> 2025, 15, 11, 9793–9803
+    web: https://doi.org/10.1021/acscatal.4c07353
+    image: ./assets/img/pol.png
+
   - title: Autonomous Exploration of Reaction Pathways for Electrochemical C-N Coupling on Single-Atom Catalysts
     authors: Junjie Pan#, Haowen Ding#, <strong>Xinzhe Yang#</strong>, Xianhui Liang, Shanglin Wu, Mingzheng Zhang, Shunning Li*, Shisheng Zheng*, Feng Pan*
     conference: <em>ACS Catal.</em> 2025, 15, 1, 457–467
