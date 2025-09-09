@@ -1,9 +1,9 @@
 main:
 
   - title: Cation- and Potential-Dependent Modulation of Hydrophobic Hydration at Electrocatalytic Interfaces
-    # authors: 
-    conference: In Revision
-    # web: https://doi.org/10.1021/jacs.5c02540
+    authors: <strong>Xinzhe Yang</strong>, Guangsheng Liu, Xiao Ma, Xiangyun Xiao, Abdulrahman Allangawi, Huabin Zhang, Wan-Lu Li*
+    conference: <em>J. Phys. Chem. C</em> 2025, XXXX, XXX, XXX-XXX
+    web: https://doi.org/10.1021/acs.jpcc.5c05310
     image: ./assets/img/cav.png
 
   - title: Elevating Nitrate Reduction through the Mastery of Hierarchical Hydrogen-Bond Networks
