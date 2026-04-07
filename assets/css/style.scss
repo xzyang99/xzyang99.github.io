@@ -2,3 +2,125 @@
 ---
 
 @import "minimal-light";
+
+.page-topbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(10px);
+  border-bottom: 2px solid #d8dee6;
+}
+
+.page-topbar-inner {
+  width: 980px;
+  max-width: calc(100% - 30px);
+  margin: 0 auto;
+  padding: 16px 0 10px;
+  box-sizing: border-box;
+}
+
+.site-nav {
+  display: flex;
+  width: 650px;
+  margin-left: auto;
+  justify-content: flex-end;
+  gap: 36px;
+  font-family: inherit;
+}
+
+.wrapper {
+  padding-top: 70px;
+}
+
+header,
+section {
+  padding-top: 1.6em;
+}
+
+.site-nav a {
+  color: #595959;
+  font-size: 1.3rem;
+  font-weight: 650;
+  letter-spacing: 0.025em;
+  font-family: inherit;
+}
+
+.site-nav a:hover,
+.site-nav a.is-active {
+  color: #043361;
+}
+
+.about-copy strong {
+  font-weight: 525;
+}
+
+.about-copy p {
+  font-size: 115%;
+}
+
+.publications strong {
+  font-weight: 525;
+}
+
+.selected-pub-badge {
+  margin-top: 6px;
+}
+
+.cv-link-line {
+  margin-bottom: 20px;
+  font-size: 1.02rem;
+}
+
+.cv-preview {
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #f8fafc;
+  box-shadow: 0 10px 30px rgba(4, 51, 97, 0.08);
+}
+
+.cv-preview object {
+  display: block;
+  width: 100%;
+  min-height: 860px;
+  background: #ffffff;
+}
+
+@media print, screen and (max-width: 960px) {
+  .page-topbar-inner {
+    width: auto;
+    max-width: calc(100% - 30px);
+    padding: 10px 0;
+  }
+
+  .site-nav {
+    width: auto;
+    gap: 18px;
+  }
+
+  .wrapper {
+    padding-top: 60px;
+  }
+
+  .cv-preview object {
+    min-height: 720px;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  .site-nav {
+    gap: 14px;
+    padding-bottom: 10px;
+  }
+
+  .site-nav a {
+    font-size: 1.14rem;
+  }
+
+  .cv-preview object {
+    min-height: 540px;
+  }
+}

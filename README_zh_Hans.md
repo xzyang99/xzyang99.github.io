@@ -15,7 +15,6 @@
 - 基本的搜索引擎优化
 - 移动端适配
 - 支持 Markdown
-- 支持自动的暗黑模式
 
 ## 使用指南
 ### 在GitHub上使用
@@ -46,8 +45,9 @@ cd minimal-light
 安装并运行:
 
 ```bash
+bundle config set --local path vendor/bundle
 bundle install
-bundle exec jekyll server
+bundle exec jekyll serve
 ```
 在`localhost`预览网页:
 <http://localhost:4000>. 
@@ -81,7 +81,6 @@ twitter: https://twitter.com/
 # 图片路径
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
 
 # Google Analytics ID
 google_analytics: UA-111540567-4

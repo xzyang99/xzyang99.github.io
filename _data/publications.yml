@@ -2,45 +2,45 @@ main:
 
   - title: Cation- and Potential-Dependent Modulation of Hydrophobic Hydration at Electrocatalytic Interfaces
     authors: <strong>Xinzhe Yang</strong>, Guangsheng Liu, Xiao Ma, Xiangyun Xiao, Abdulrahman Allangawi, Huabin Zhang, Wan-Lu Li*
-    conference: <em>J. Phys. Chem. C</em> 2025, XXXX, XXX, XXX-XXX
+    conference: <em>J. Phys. Chem. C</em> 2025, 129, 37, 16958–16966
     web: https://doi.org/10.1021/acs.jpcc.5c05310
-    image: ./assets/img/cav.png
+    image: /assets/img/cav.png
 
   - title: Elevating Nitrate Reduction through the Mastery of Hierarchical Hydrogen-Bond Networks
     authors: Ru-Yu Zhou#, Shisheng Zheng#, Xuan Liu, Yao-Hui Wang, Shunning Li, <strong>Xinzhe Yang</strong>, Feng Pan*, Jian-Feng Li*
     conference: <em>J. Am. Chem. Soc.</em> 2025, 147, 24, 20504–20511
     web: https://doi.org/10.1021/jacs.5c02540
-    image: ./assets/img/lino3.png
+    image: /assets/img/lino3.png
 
   - title: Polarized Ni0-Niδ+ Catalysts Enable Asymmetric C–C Coupling for Long-Chain Hydrocarbons in Electrochemical CO2 Reduction
     authors: Haowen Ding#, Wenwei Cai#, <strong>Xinzhe Yang</strong>, Yu Zhang, Shunning Li*, Feng Pan*, Shisheng Zheng*
     conference: <em>ACS Catal.</em> 2025, 15, 11, 9793–9803
     web: https://doi.org/10.1021/acscatal.4c07353
-    image: ./assets/img/pol.png
+    image: /assets/img/pol.png
 
   - title: Autonomous Exploration of Reaction Pathways for Electrochemical C-N Coupling on Single-Atom Catalysts
     authors: Junjie Pan#, Haowen Ding#, <strong>Xinzhe Yang#</strong>, Xianhui Liang, Shanglin Wu, Mingzheng Zhang, Shunning Li*, Shisheng Zheng*, Feng Pan*
     conference: <em>ACS Catal.</em> 2025, 15, 1, 457–467
     web: https://doi.org/10.1021/acscatal.4c05751
-    image: ./assets/img/graph.png
+    image: /assets/img/graph.png
     
   - title: Automating Discovery of Electrochemical Urea Synthesis Reaction Paths via Active Learning and Graph Theory
     authors: Shisheng Zheng, Haowen Ding, <strong>Xinzhe Yang</strong>, Shunning Li*, Feng Pan*
     conference: <em>CCS Chem.</em> 2025, 7, 2822–2834
     web: https://doi.org/10.31635/ccschem.024.202404955
-    image: ./assets/img/ccs.png
+    image: /assets/img/ccs.png
     
   - title: The Loss of Interfacial Water-Adsorbate Hydrogen Bond Connectivity Positions Surface-Active Hydrogen as a Crucial Intermediate to Enhance Nitrate Reduction Reaction
     authors: Shisheng Zheng*, <strong>Xinzhe Yang</strong>, Zhong-Zhang Shi, Haowen Ding, Feng Pan*, Jian-Feng Li*
     conference: <em>J. Am. Chem. Soc.</em> 2024, 146, 39, 26965–26974
     web: https://doi.org/10.1021/jacs.4c08256
-    image: ./assets/img/no3rr.jpg
+    image: /assets/img/no3rr.jpg
 
   - title: The Role of Surface Hydrogen Coverage in C−C Coupling Process for CO2 Electroreduction on Ni-Based Catalysts
     authors: Haowen Ding, Shisheng Zheng*, <strong>Xinzhe Yang</strong>, Junjie Pan, Zhefeng Chen, Mingzheng Zhang, Shunning Li*, Feng Pan*
     conference: <em>ACS Catal.</em> 2024, 14, 19, 14330–14338
     web: https://doi.org/10.1021/acscatal.4c02126
-    image: ./assets/img/niga.jpg
+    image: /assets/img/niga.jpg
 
   - title: Cation-Induced Interfacial Hydrophobic Microenvironment Promotes the C–C Coupling in Electrochemical CO2 Reduction
     authors: <strong>Xinzhe Yang</strong>, Haowen Ding, Shunning Li, Shisheng Zheng*, Jian-Feng Li, Feng Pan*
@@ -52,4 +52,4 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # conference_short: CVPR
-    image: ./assets/img/cation.jpeg
+    image: /assets/img/cation.jpeg

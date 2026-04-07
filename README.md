@@ -19,7 +19,6 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 - Basic search engine optimization
 - Mobile friendly
 - Supporting Markdown 
-- Supporting dark mode
 
 ## Project Architecture
 
@@ -33,8 +32,7 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 ├── _layouts                  
 |   └── homepage.html                         #  the html template for the homepage 
 ├── _sass
-|   ├── minimal-light.scss                    #  this file will be compiled into a CSS file to control the style of the page              
-|   └── minimal-light-no-dark-mode.scss       #  this file is similar to minimal-light.scss with the dark mode disabled
+|   └── minimal-light.scss                    #  this file will be compiled into a CSS file to control the style of the page              
 ├── assets                                    #  some files
 ├── html_source_file                          #  compiled HTML files
 ├── .gitignore                                #  this file specifies intentionally untracked files that Git should ignore
@@ -91,9 +89,9 @@ cd minimal-light
 Install and run:
 
 ```bash
+bundle config set --local path vendor/bundle
 bundle install
-bundle add webrick
-bundle exec jekyll server
+bundle exec jekyll serve
 ```
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the HTML files in `_site` folder.
@@ -129,19 +127,13 @@ github_link: https://github.com/
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (e.g., your profile picture and your website's favicon)
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
-
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.

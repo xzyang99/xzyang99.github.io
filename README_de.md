@@ -16,7 +16,6 @@
 - Grundlegende Suchmaschinenoptimierung
 - Handyfreundlich
 - Support Markdown 
-- Unterstützt den dunklen Modus
 
 ## Verwendung
 
@@ -48,8 +47,9 @@ cd minimal-light
 Installieren und ausführen:
 
 ```bash
+bundle config set --local path vendor/bundle
 bundle install
-bundle exec jekyll server
+bundle exec jekyll serve
 ```
 
 Zeigen Sie die Live-Seite mit `localhost` an: 
@@ -83,10 +83,8 @@ linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 
 # Bilder (z. B. Ihr Profilbild und das Favicon Ihrer Website)
-# "favicon" und "favicon_dark" werden für den Hell- bzw. Dunkelmodus verwendet.
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
 
 # Google Analytics ID
 # Bitte entfernen Sie dies, wenn Sie Google Analytics nicht verwenden

@@ -17,7 +17,6 @@
 - 基本的搜索引擎優化
 - 移動端適配
 - 支持 Markdown
-- 支持自動的暗黑模式
 
 ## 使用指南
 ### 在GitHub上使用
@@ -48,8 +47,9 @@ cd minimal-light
 安裝並運行:
 
 ```bash
+bundle config set --local path vendor/bundle
 bundle install
-bundle exec jekyll server
+bundle exec jekyll serve
 ```
 在`localhost`預覽網頁:
 <http://localhost:4000>. 
@@ -83,7 +83,6 @@ twitter: https://twitter.com/
 # 圖片路徑
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
 
 # Google Analytics ID
 google_analytics: UA-111540567-4
