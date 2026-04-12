@@ -10,11 +10,13 @@ main:
   - title: Cation- and Potential-Dependent Modulation of Hydrophobic Hydration at Electrocatalytic Interfaces
     authors: <strong>Xinzhe Yang</strong>, Guangsheng Liu, Xiao Ma, Xiangyun Xiao, Abdulrahman Allangawi, Huabin Zhang, Wan-Lu Li*
     conference: <em>J. Phys. Chem. C</em> 2025, 129, 37, 16958–16966
+    dimensions_badge_doi: 10.1021/acs.jpcc.5c05310
     web: https://doi.org/10.1021/acs.jpcc.5c05310
     image: /assets/img/cav.png
 
   - title: Autonomous Exploration of Reaction Pathways for Electrochemical C-N Coupling on Single-Atom Catalysts
     authors: Junjie Pan#, Haowen Ding#, <strong>Xinzhe Yang#</strong>, Xianhui Liang, Shanglin Wu, Mingzheng Zhang, Shunning Li*, Shisheng Zheng*, Feng Pan*
     conference: <em>ACS Catal.</em> 2025, 15, 1, 457–467
+    dimensions_badge_doi: 10.1021/acscatal.4c05751
     web: https://doi.org/10.1021/acscatal.4c05751
     image: /assets/img/graph.png
